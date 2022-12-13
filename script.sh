@@ -2,7 +2,7 @@
 #
 # Reference
 #
-#   Cisco Catalyst 8000V Edge Software High Availability Configuration Guide - Configure High Availability on Cisco Catalyst 8000V Running on Amazon Web Services [Cisco IOS XE 17] - Cisco
+#  Cisco Catalyst 8000V Edge Software High Availability Configuration Guide - Configure High Availability on Cisco Catalyst 8000V Running on Amazon Web Services [Cisco IOS XE 17] - Cisco
 #  https://www.cisco.com/c/en/us/td/docs/routers/C8000V/HighAvailability/c8000v-high-availability-configuration-guide/configure-high-availability-for-aws.html
 #
 #
